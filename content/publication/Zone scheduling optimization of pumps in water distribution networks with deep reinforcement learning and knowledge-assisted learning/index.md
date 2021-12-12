@@ -35,8 +35,6 @@ abstract: This article studies the pump scheduling optimization problem in water
 # Summary. An optional shortened abstract.
 summary: In this article, we have proposed a DRL-based method for scheduling optimization of pumps in WDNs in a time-varying water demand condition. To help terminate the training process and design the reward function, we have established the KA-RL learning framework by combing knowledge-assisted learning with the DRL. Besides, a new algorithm called KA-PPO is proposed. The predictor is used in the KA learning for calculating the best state value of the WDNs.
 
-Pump scheduling optimization is considered as one-step optimization problem, and the operation cost is ignored. Future works will consider the accumulated reward with operation cost and refer to electricity prices in the reward function. Moreover, the action space is discretized in this article to help model the problem into a Markov decision process. The continuous action space and long period accumulated return will be considered in future research.
-
 tags: []
 
 # Display this page in the Featured widget?
