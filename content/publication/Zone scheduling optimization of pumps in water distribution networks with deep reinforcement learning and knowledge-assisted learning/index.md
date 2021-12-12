@@ -27,8 +27,8 @@ publishDate: "2021-09-04T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: Soft computing
+publication_short: Springer
 
 abstract: This article studies the pump scheduling optimization problem in water distribution networks (WDNs) through a novel algorithm that combines knowledge learning and deep reinforcement learning. The optimization problem is modeled as a Markov decision process by taking three objectives in pressure management into consideration. Knowledge-assisted learning is incorporated into the reinforcement learning framework (KA-RL) to help evaluate the state value and guide the design of reward function, since the proposed KA-RL framework leverages the notion that historical data of WDNs could be utilized to produce optimal trajectories with respect to parametric variations. The knowledge-assisted proximal policy optimization (KA-PPO) algorithm, which only uses nodal pressure data, is proposed based on the KA-RL framework to address the arbitrary WDN topology and time-varying water demand. The effectiveness and applicability of the proposed algorithm are illustrated by virtue of the 22-node network with two pumps in a pump station. Empirical results demonstrate that KA-PPO works well in practice and compares favorably to Nelder–Mead method.
 
