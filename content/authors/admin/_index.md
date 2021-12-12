@@ -6,7 +6,7 @@ title: Jiahui Xu
 superuser: true
 
 # Role/position/tagline
-role: Ph.D of Engineering
+role: Ph.D of Automation Control
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -40,18 +40,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=95G9Fd8AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/olixu
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -67,7 +67,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a Ph.D of artificial intelligence at the Shanghai JiaoTong University. His research interests include deep reinforcement learning, optimal control and programmable matter. 
+I am a Ph.D of artificial intelligence at the Shanghai JiaoTong University. My research interests include deep reinforcement learning, optimal control and programmable matter. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 
